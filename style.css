@@ -37,3 +37,9 @@ ul {
 .restaurant-list {
   color: black;
 }
+
+@media only screen and (max-width: 720px) {
+  body > header {
+    color: blue;
+  }
+}
