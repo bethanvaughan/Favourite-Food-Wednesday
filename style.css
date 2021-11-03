@@ -46,4 +46,8 @@ ul {
   .restaurant-list {
     color: green;
   }
+
+  .google-maps {
+    width: 150%;
+  }
 }
