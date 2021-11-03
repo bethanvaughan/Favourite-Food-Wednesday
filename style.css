@@ -42,4 +42,8 @@ ul {
   header > h1 {
     color: blue;
   }
+
+  header {
+    color: yellow;
+  }
 }
