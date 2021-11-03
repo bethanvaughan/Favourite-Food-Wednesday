@@ -38,12 +38,12 @@ ul {
   color: black;
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 620px) {
   header > h1 {
     color: blue;
   }
 
-  header {
+  h2 > .ingediants-title {
     color: yellow;
   }
 }
