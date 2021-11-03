@@ -1,0 +1,39 @@
+h1 {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  padding: 20px;
+}
+h2 {
+  font-family: "Times New Roman", Times, serif;
+  padding: 20px;
+}
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  padding: 20px;
+}
+.nav-color {
+  color: white;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.google-maps {
+  width: 50%;
+  height: auto;
+}
+
+ul {
+  color: white;
+}
+
+.ingediants-title,
+.method-title {
+  color: white;
+}
+.restaurant-list {
+  color: black;
+}
