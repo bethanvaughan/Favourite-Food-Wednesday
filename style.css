@@ -58,6 +58,7 @@ ul {
     list-style-type: square;
   }
   .ingediants-title {
-    font-size: 60px;
+    font-size: 45px;
+    text-align: center;
   }
 }
